@@ -1,314 +1,205 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
+    "name": "Louis-Marie Bouchet",
+    "label": "Étudiant en BTS SIO - SLAM",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "email": "bouchet.louismarie44@gmail.com",
+    "phone": "06 25 22 28 88",
+    "url": "",
+    "summary": "Étudiant en deuxième année de BTS SIO spécialité développement (SLAM), passionné par la programmation et la cybersécurité. Actuellement à la recherche d'une alternance pour septembre 2025.",
+    "theme": "red",
     "location": {
-      "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "address": "52 bis rue du colonel desgrees du lou",
+      "postalCode": "44100",
+      "city": "Nantes",
+      "countryCode": "FR",
+      "region": "France"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "",
+        "url": "https://www.linkedin.com/in/louis-marie-bouchet/"
       },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
-      },
+   
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "",
+        "url": "https://github.com/lmbexe"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "name": "Aiherd",
+      "position": "",
+      "location_type": "Stage 1 mois",
+      "location": "Nantes, France",
+      "url": "https://www.aiherd.io/fr",
+      "startDate": "2025-01-6",
+      "endDate": "2025-02-14",
+      "summary": "Développement d'un formulaire de contact responsive pour le site web d'Aiherd avec HTML CSS et JavaScript",
       "highlights": [
-        "Improved website performance by optimizing code"
+        "Apprentissage du SEO",
+        "Participation à des stratégies de référencement"
       ],
-      "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
-      ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
-      ],
+      "responsibilities": ["Transformation de ce formulaire en Web Component et tests effectués avec PlayWright"],
+      "achievements": [],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        "Développement Web"
+       
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "name": "Jloo Agence de communication 100% SEO",
+      "position": "",
+      "location_type": "Stage 3 mois",
+      "location": "Nantes, France",
+      "url": "https://www.jloo.com/",
+      "startDate": "2023-03-20",
+      "endDate": "2023-06-30",
+      "summary": "Assistant chef de projet SEO. Stage de découverte et apprentissage des techniques de SEO.",
       "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+        "Apprentissage du SEO",
+        "Participation à des stratégies de référencement"
       ],
-      "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
-      ],
+      "responsibilities": ["Analyses et audits SEO"],
+      "achievements": ["Utilisation de logiciels comme SemRush pour l'analyse de mots clés, Screaming Frog pour crawler et Ahref pour les backlinks"],
       "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
-      ]
-    },
-    {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": [
-        "Completed several client projects successfully"
-      ],
-      "skills": [
-        "HTML",
-        "CSS"
+        "SEO",
+        "Référencement naturel"
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }
-  ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
+      "institution": "Lycée Carcouët - Nantes",
+      "url": "https://www.btssio-carcouet.fr/",
+      "area": "BTS Systèmes Informatiques aux Organisations (SIO) - Spécialité développement (SLAM)",
+      "studyType": "BTS SIO",
+      "startDate": "2023",
+      "endDate": "2025",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "CESI - Nantes",
+      "url": "https://www.cesi.fr/formation/bachelor-concepteur-trice-developpeur-se-informatique-2498869/",
+      "area": "Formation Développement Web",
+      "studyType": "Formation",
+      "startDate": "2022",
+      "endDate": "2023",
+      "score": "",
       "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
+        "CS101 - Introduction à la programmation",
+        "CS102 - Développement Web"
       ]
     },
     {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
-      ]
+      "institution": "Lycée La Joliverie - Nantes",
+      "url": "https://www.la-joliverie.com/formation/176-baccalaureat-technologique-sciences-et-technologies-de-l-industrie-et-du-developpement-durable.html",
+      "area": "BAC Sciences et Technologies de l’Industrie et du Développement Durable (STI2D) - SIN",
+      "studyType": "BAC STI2D",
+      "startDate": "2020",
+      "endDate": "2022",
+      "score": "",
+      "courses": []
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": "",
+      "date": "",
+      "issuer": "",
+      "url": ""
     }
   ],
   "skills": [
     {
-      "name": "Figma",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
-    },
-    {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
       "name": "HTML",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
+      "level": "Intermédiaire",
+      "keywords": []
     },
     {
       "name": "CSS",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
+      "level": "Intermédiaire",
+      "keywords": []
     },
     {
       "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
+      "level": "Intermédiaire",
+      "keywords": []
     },
     {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
+      "name": "PHP",
+      "level": "Intermédiaire",
+      "keywords": []
     },
     {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
+      "name": "Python",
+      "level": "Intermédiaire",
+      "keywords": []
     },
     {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
+      "name": "C#",
+      "level": "Intermédiaire",
+      "keywords": []
     },
     {
-      "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
+      "name": "SQL",
+      "level": "Intermédiaire",
+      "keywords": []
     },
     {
       "name": "Git",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "level": "Débutant",
+      "keywords": []
     },
     {
       "name": "GitHub",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
+      "level": "Débutant",
+      "keywords": []
     },
     {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
+      "name": "CyberSécurité",
+      "level": "Débutant",
+      "keywords": []
     },
     {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "name": "SEO",
+      "level": "Intermédiaire",
+      "keywords": []
+    },
+    {
+      "name": "PlayWright",
+      "level": "Débutant",
+      "keywords": []
+    },
+    {
+      "name": "Dactylographie",
+      "level": "Expert",
+      "keywords": ["100 mots par minute"]
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "language": "Français",
+      "fluency": "Langue maternelle"
     },
     {
-      "language": "Spanish",
-      "fluency": "Intermediate"
+      "language": "Anglais",
+      "fluency": "B1"
     }
   ],
   "interests": [
     {
-      "name": "Technology",
-      "keywords": [
-        "AI",
-        "Blockchain"
-      ]
+      "name": "Sport",
+      "keywords": ["Musculation", "Street-workout"]
+    },
+    {
+      "name": "Musique",
+      "keywords": ["Piano"]
     }
   ],
   "references": [
@@ -319,46 +210,14 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
+      "name": "Portfolio Web",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "Un site web personnel pour présenter mes compétences et projets.",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
+        
       ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
-      "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
+      "url": "",
+      "github": ""
     }
   ]
 }
