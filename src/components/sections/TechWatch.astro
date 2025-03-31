@@ -1,0 +1,36 @@
+---
+import Section from "../Section.astro";
+import { techWatch } from "@cv";
+---
+
+<Section className={Astro.props.className} title="Veille Technologique">
+  {techWatch.map(({ topic, description, highlights, resources }) => (
+    <div class="space-y-4">
+      <h3 class="text-lg font-semibold">📚 {topic}</h3>
+      <p>{description}</p>
+      {highlights && highlights.length > 0 && (
+        <ul class="list-disc ml-6 space-y-2">
+          {highlights.map((highlight) => (
+            <li>
+              {highlight}
+            </li>
+          ))}
+        </ul>
+      )}
+      {resources && resources.length > 0 && (
+        <div>
+          <h4 class="font-medium">🔗 Ressources :</h4>
+          <ul class="list-disc ml-6 space-y-2">
+            {resources.map(({ name, url }) => (
+              <li>
+                <a href={url} target="_blank" rel="noopener noreferrer" class="text-skin-hue hover:underline">
+                  {name}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+    </div>
+  ))}
+</Section>

@@ -7,7 +7,7 @@
     "phone": "06 25 22 28 88",
     "url": "",
     "summary": "Étudiant en deuxième année de BTS SIO spécialité développement (SLAM), passionné par la programmation et la cybersécurité. Actuellement à la recherche d'une alternance pour septembre 2025.",
-    "theme": "red",
+    "theme": "default",
     "location": {
       "address": "52 bis rue du colonel desgrees du lou",
       "postalCode": "44100",
@@ -32,27 +32,34 @@
   "work": [
     {
       "name": "Aiherd",
-      "position": "",
+      "position": "Développeur Web Stagiaire",
       "location_type": "Stage 1 mois",
       "location": "Nantes, France",
       "url": "https://www.aiherd.io/fr",
       "startDate": "2025",
       "endDate": "2025",
-      "summary": "Développement d'un formulaire de contact responsive pour le site web d'Aiherd avec HTML CSS et JavaScript",
+      "summary": "Développement d'un formulaire de contact responsive pour le site web d'Aiherd avec HTML, CSS et JavaScript.",
       "highlights": [
-        "Apprentissage du SEO",
-        "Participation à des stratégies de référencement"
+        "Développement d'un formulaire de contact en HTML, CSS et JavaScript",
+        "Formulaire Responsive pour une meilleure expérience utilisateur",
+        "Collaboration avec l'équipe de développement pour intégrer le formulaire"
       ],
-      "responsibilities": ["Transformation de ce formulaire en Web Component et tests effectués avec PlayWright"],
-      "achievements": [],
+      "responsibilities": [
+        "Développement du formulaire",
+        "Transformation de ce formulaire en Web Component",
+        "Tests sur le formulaire effectués avec PlayWright",
+        "Optimisation du formulaire pour les performances et l'accessibilité"
+      ],
+      
       "skills": [
-        "Développement Web"
-       
+        "Développement Web",
+        
+        "Accessibilité Web"
       ]
     },
     {
       "name": "Jloo Agence de communication 100% SEO",
-      "position": "",
+      "position": "Assistant Chef de Projet SEO",
       "location_type": "Stage 3 mois",
       "location": "Nantes, France",
       "url": "https://www.jloo.com/",
@@ -61,13 +68,23 @@
       "summary": "Assistant chef de projet SEO. Stage de découverte et apprentissage des techniques de SEO.",
       "highlights": [
         "Apprentissage du SEO",
-        "Participation à des stratégies de référencement"
+        "Participation à des stratégies de référencement",
+        "Réalisation d'audits SEO pour des clients"
       ],
-      "responsibilities": ["Analyses et audits SEO"],
-      "achievements": ["Utilisation de logiciels comme SemRush pour l'analyse de mots clés, Screaming Frog pour crawler et Ahref pour les backlinks"],
+      "responsibilities": [
+        "Analyses et audits SEO",
+        "Rédaction de rapports d'audit",
+        "Recommandations pour l'optimisation des sites clients"
+      ],
+      "achievements": [
+        "Utilisation de logiciels comme SemRush pour l'analyse de mots clés",
+        "Screaming Frog pour crawler",
+        "Ahref pour les backlinks"
+      ],
       "skills": [
         "SEO",
-        "Référencement naturel"
+        "Référencement naturel",
+        "Analyse de données"
       ]
     }
   ],
@@ -81,12 +98,17 @@
       "startDate": "2023",
       "endDate": "2025",
       "score": "",
-      "courses": []
+      "courses": [],
+      "highlights": [
+        "Apprentissage de la programmation",
+        "Développement de projets en équipe et seul",
+        "Apprentissage des techniques de cybersécurité"
+      ]
     },
     {
       "institution": "CESI - Nantes",
       "url": "https://www.cesi.fr/formation/bachelor-concepteur-trice-developpeur-se-informatique-2498869/",
-      "area": "Formation Développement Web",
+      "area": "Formation Développement Web : Apprentissage d'HTML CSS et Wordpress",
       "studyType": "Formation",
       "startDate": "2022",
       "endDate": "2023",
@@ -94,6 +116,11 @@
       "courses": [
         "CS101 - Introduction à la programmation",
         "CS102 - Développement Web"
+      ],
+      "highlights": [
+        "Création de sites web avec HTML, CSS et Wordpress",
+        "Développement de compétences en gestion de projet",
+        "Utilisation de Photoshop, illustrator et XD pour la création de logos et de maquettes"
       ]
     },
     {
@@ -104,15 +131,20 @@
       "startDate": "2020",
       "endDate": "2022",
       "score": "",
-      "courses": []
+      "courses": [],
+      "highlights": [
+        "Étude des systèmes numériques",
+        "Projets de développement durable",
+        "Travaux pratiques en électronique et informatique"
+      ]
     }
   ],
   "certificates": [
     {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": ""
+      "name": "Certification PIX",
+      "date": "2022",
+      "issuer": "Code de vérification : P-G8MQ2WJD",
+      "url": "https://app.pix.fr/verification-certificat"
     }
   ],
   "skills": [
@@ -212,12 +244,89 @@
     {
       "name": "Portfolio Web",
       "isActive": true,
-      "description": "Un site web personnel pour présenter mes compétences et projets.",
+      "description": "Création d'un site web personnel moderne et interactif pour présenter mes compétences, expériences professionnelles et projets.",
       "highlights": [
-        
+        "Design responsive et intuitif"
       ],
       "url": "",
+      "github": "https://github.com/lmbexe/portfolio"
+    },
+    {
+      "name": "API Rest avec Slim",
+      "isActive": true,
+      "description": "Développement d'une API Rest avec le framework Slim et utilisation de JWT pour l'authentification.",
+      "highlights": [
+        "Utilisation du framework Slim",
+        "Implémentation de l'authentification JWT",
+        "Création de routes sécurisées"
+      ],
+      "url": "https://github.com/lmbexe/API",
+      "github": "https://github.com/lmbexe/API"
+    },
+    {
+      "name": "Site Web pour l'Association de Tennis de Treillières",
+      "isActive": true,
+      "description": "Réalisation en équipe d'un site web responsive pour l'association de tennis de Treillières",
+      "highlights": [
+        "Développement du site avec WordPress",
+        "Design moderne pour une meilleure expérience utilisateur",
+        "Gestion du projet en équipe",
+        "Optimisation du site pour le SEO"
+      ],
+      "url": "https://tennis-club-treillieres.fr/",
       "github": ""
+    }
+  ],
+  "techWatch": [
+    {
+      "topic": "CSS",
+      "description": "Veille technologique sur les nouveautés et bonnes pratiques en CSS, en suivant des experts comme Kevin Powell.",
+      "highlights": [
+        "🎨 Découverte de nouvelles fonctionnalités CSS comme `:has()` pour les sélecteurs parent.",
+        "📏 Utilisation des conteneurs avec `@container` pour le Container Query.",
+        "🎥 Amélioration des animations avec `@keyframes` et la propriété `animation-timeline`.",
+        "📐 Exploration des nouvelles unités CSS comme `lvh`, `svh`, et `dvh` pour une meilleure gestion des hauteurs d'écran.",
+        "💡 Suivi des vidéos de Kevin Powell pour apprendre des astuces avancées et des bonnes pratiques CSS."
+      ],
+      "resources": [
+        {
+          "name": "Kevin Powell - YouTube",
+          "url": "https://www.youtube.com/@KevinPowell"
+        },
+        {
+          "name": "MDN Web Docs - CSS",
+          "url": "https://developer.mozilla.org/fr/docs/Web/CSS"
+        },
+        {
+          "name": "CSS Tricks",
+          "url": "https://css-tricks.com/"
+        }
+      ]
+    },
+    {
+      "topic": "HTML",
+      "description": "Veille technologique sur les nouveautés et bonnes pratiques en HTML, en suivant des experts et des ressources reconnues.",
+      "highlights": [
+        "📄 Découverte des nouvelles balises HTML5 comme `<dialog>` pour les boîtes de dialogue natives.",
+        "🔍 Utilisation des attributs `loading='lazy'` pour optimiser le chargement des images.",
+        "🌐 Exploration des meilleures pratiques pour l'accessibilité avec les balises ARIA.",
+        "📊 Utilisation des balises `<template>` et `<slot>` pour les composants réutilisables.",
+        "💡 Suivi des vidéos et articles pour rester à jour sur les standards HTML."
+      ],
+      "resources": [
+        {
+          "name": "MDN Web Docs - HTML",
+          "url": "https://developer.mozilla.org/fr/docs/Web/HTML"
+        },
+        {
+          "name": "HTML Living Standard",
+          "url": "https://html.spec.whatwg.org/"
+        },
+        {
+          "name": "Web.dev - HTML",
+          "url": "https://web.dev/learn/html/"
+        }
+      ]
     }
   ]
 }
