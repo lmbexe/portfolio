@@ -6,7 +6,7 @@
     "email": "bouchet.louismarie44@gmail.com",
     "phone": "06 25 22 28 88",
     "url": "",
-    "summary": "Étudiant en deuxième année de BTS SIO spécialité développement (SLAM), passionné par la programmation et la cybersécurité. Actuellement à la recherche d'une alternance pour septembre 2025.",
+    "summary": "Étudiant en deuxième année de BTS SIO spécialité développement (SLAM), passionné par la programmation. Actuellement à la recherche d'une alternance pour septembre 2025.",
     "theme": "default",
     "location": {
       "address": "52 bis rue du colonel desgrees du lou",
@@ -266,8 +266,8 @@
         "Implémentation de l'authentification JWT",
         "Création de routes sécurisées"
       ],
-      "url": "https://github.com/lmbexe/API",
-      "github": "https://github.com/lmbexe/API"
+      "url": "https://github.com/lmbexe/slimApi",
+      "github": "https://github.com/lmbexe/slimApi"
     },
     {
       "name": "Site Web pour l'Association de Tennis de Treillières",
@@ -292,8 +292,8 @@
         "Design moderne et intuitif pour une meilleure expérience utilisateur.",
         "Sécurisation des données avec des bonnes pratiques en PHP et MySQL."
       ],
-      "url": "",
-      "github": ""
+      "url": "https://github.com/lmbexe/noteApp",
+      "github": "https://github.com/lmbexe/noteApp"
     }
   ],
   "techWatch": [
@@ -305,38 +305,16 @@
       ],
       "resources": [
         {
-          "name": "Reddit - r/programming",
-          "url": "https://www.reddit.com/r/programming/"
+          "name": "Reddit - r/programmation",
+          "url": "https://www.reddit.com/r/programmation/"
         },
         {
-          "name": "Reddit - r/webdev",
-          "url": "https://www.reddit.com/r/webdev/"
+          "name": "Reddit - r/developpeurs",
+          "url": "https://www.reddit.com/r/developpeurs/"
         },
         {
           "name": "Stack Overflow",
           "url": "https://stackoverflow.com/"
-        }
-      ]
-    },
-    {
-      "topic": "Cybersécurité",
-      "description": "Veille technologique sur les menaces, les vulnérabilités et les bonnes pratiques en cybersécurité",
-      "highlights": [
-        "Suivi des actualités sur la cybersécurité via des sites comme The Hacker News.",
-        "Formation et résolution de challenges sur des plateformes comme TryHackMe et Root Me."
-      ],
-      "resources": [
-        {
-          "name": "The Hacker News",
-          "url": "https://thehackernews.com/"
-        },
-        {
-          "name": "TryHackMe",
-          "url": "https://tryhackme.com/"
-        },
-        {
-          "name": "Root Me",
-          "url": "https://www.root-me.org/"
         }
       ]
     },
